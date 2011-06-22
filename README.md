@@ -8,12 +8,12 @@ Currently only supports the classic **301** game. - sorry :/
 Installation
 ------------
 
-*Step 1* extract the content under _protected/extensions_
+*Step 1)* extract the content under _protected/extensions_
 
-*Step 2* call it in a view like:
+*Step 2)* call it in a view like:
 
 ```
 $this->widget( 'ext.dartsmania.dartsmania' );
 ```
 
-*Step 3* play!
+*Step 3)* play!
