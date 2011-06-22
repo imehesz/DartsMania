@@ -1,0 +1,38 @@
+.darts_links
+{
+	color: #296952;
+	padding: 1px 4px 1px 4px;
+	font-weight: bold;
+}
+
+.darts_links:hover
+{
+	color: #fff;
+	background-color: #296952;
+}
+
+.dart_board_part td
+{
+	width:100%;
+	border: solid 1px #fff;
+	background-color: #296952;
+	color: #fff;
+}
+
+#score-board-wrapper
+{
+	width: 225px;
+}
+
+#score_board
+{
+	padding-top: 20px;
+	padding-bottom:20px;
+	background-color:#296952;
+	font-size:42px;
+	text-align:center;
+	width:100%;
+	color:#fff;
+	font-weight:bolder;
+	border:10px;
+}
